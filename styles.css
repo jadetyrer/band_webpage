@@ -1,0 +1,42 @@
+
+@import url('https://fonts.googleapis.com/css?family=ABeeZee|Exo|Overpass&display=swap');
+
+
+
+h1 {
+  font-size: 100px;
+  font-family: 'ABeeZee', sans-serif;
+  text-align: center;
+}
+
+h2 {
+  font-size: 60px;
+  font-family: 'Exo', sans-serif;
+  text-align: center;
+}
+
+body {
+  font-family: 'Overpass', sans-serif;
+  background-color: rgb(189, 186, 186);
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 120px;
+  background-color: rgb(189, 186, 186);
+}
+
+li a {
+  display: block;
+  width: 120px;
+  text-decoration: none;
+  color: black;
+}
+
+li a:hover {
+  background-color:rgb(25, 26, 25);
+  color: rgb(248, 241, 241);
+}  
